@@ -8,17 +8,21 @@
 
 # what is it?
 
-simple programme that reads json data from a file *testfile.txt) and uploads it into a postgres db.
+simple programme that reads json data from datasourcefolder and uploads it into a postgres db.
 the database is runnin on a Vagrant machine which have to be started first.  vagrant up builds
 the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in the public schema.
 
 # Progame logic
 
-1) read from file and map json to map
+1) read all files in datasource dir
+
+2) read the content of each file into []byte
+
+3) unmarshall []byte into json
 
 2) create postgres db table
 
-3) upload
+3) upload content of jsonfile
 
 
 
@@ -31,7 +35,7 @@ the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in
 $mkdir temp
 $cd temp
 $ git clone https://github.com/thecroydonproject/eaglesdatabaseuploadservice.git
-```
+```c
 
 
 2)  set-up env variable (db connection string)
@@ -52,8 +56,7 @@ $ go build && ./dbuplaod
 
 see this video on how to run:
 
-https://asciinema.org/a/80ioah7ud6jn1fm6k92pifud2
-ps
+
 
 
 ## to check the database
