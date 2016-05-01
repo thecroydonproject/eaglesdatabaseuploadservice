@@ -74,11 +74,9 @@ cpfcf#\q                                                                    \\ex
 
  ## What is Made iN H_oT
 
-  software written by UK Home Office Technology will be badged
 
-  with <p align="center"> <img src="madeinhot.jpg" width="100"/>
-       </p> as mark of quality, trust and consistance. This badge
-       is not yet declared official.
+[logo]: https://github.com/thecroydonproject/eaglesdatabaseuploadservice/madeinhot.jpg software written by UK Home Office Technology will be badged
+This badge is not yet declared official.
 
 
 
