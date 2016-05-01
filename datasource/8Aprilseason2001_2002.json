@@ -1,0 +1,452 @@
+[
+     {
+          "gamedate": "Sat 11 Aug 2001",
+          "team": "Rotherham United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 18 Aug 2001",
+          "team": "STOCKPORT COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 21 Aug 2001",
+          "team": "Leyton Orient",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "W 4-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Aug 2001",
+          "team": "Nottingham Forest",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Sep 2001",
+          "team": "MILLWALL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 12 Sep 2001",
+          "team": "Everton",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Sep 2001",
+          "team": "Portsmouth",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 18 Sep 2001",
+          "team": "GRIMSBY TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 5-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Sep 2001",
+          "team": "BARNSLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 25 Sep 2001",
+          "team": "Sheffield United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Sep 2001",
+          "team": "SHEFFIELD WEDNESDAY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 10 Oct 2001",
+          "team": "Sheffield Wednesday",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Oct 2001",
+          "team": "WIMBLEDON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 16 Oct 2001",
+          "team": "BRADFORD CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Oct 2001",
+          "team": "Wolverhampton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 23 Oct 2001",
+          "team": "Burnley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 28 Oct 2001",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 31 Oct 2001",
+          "team": "WEST BROMWICH ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Nov 2001",
+          "team": "Walsall",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Nov 2001",
+          "team": "CREWE ALEXANDRA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 21 Nov 2001",
+          "team": "Gillingham",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Nov 2001",
+          "team": "Preston North End",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 28 Nov 2001",
+          "team": "Coventry City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Dec 2001",
+          "team": "BURNLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Dec 2001",
+          "team": "MANCHESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 11 Dec 2001",
+          "team": "Birmingham City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Dec 2001",
+          "team": "Watford",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 20 Dec 2001",
+          "team": "NOTTINGHAM FOREST",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 26 Dec 2001",
+          "team": "Millwall",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Dec 2001",
+          "team": "Bradford City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Jan 2002",
+          "team": "Newcastle United",
+          "awayorhome": "A",
+          "competition": "F.A. Cup",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 13 Jan 2002",
+          "team": "Stockport County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 16 Jan 2002",
+          "team": "GILLINGHAM",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Jan 2002",
+          "team": "ROTHERHAM UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 29 Jan 2002",
+          "team": "COVENTRY CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Feb 2002",
+          "team": "Sheffield Wednesday",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 07 Feb 2002",
+          "team": "WOLVERHAMPTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Feb 2002",
+          "team": "Wimbledon",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Feb 2002",
+          "team": "SHEFFIELD UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 26 Feb 2002",
+          "team": "Barnsley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Mar 2002",
+          "team": "Grimsby Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-5",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 05 Mar 2002",
+          "team": "PORTSMOUTH",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Mar 2002",
+          "team": "WATFORD",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Mar 2002",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Mar 2002",
+          "team": "WALSALL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Mar 2002",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 01 Apr 2002",
+          "team": "BIRMINGHAM CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 07 Apr 2002",
+          "team": "Crewe Alexandra",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Apr 2002",
+          "team": "PRESTON NORTH END",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 21 Apr 2002",
+          "team": "West Bromwich Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     }
+]

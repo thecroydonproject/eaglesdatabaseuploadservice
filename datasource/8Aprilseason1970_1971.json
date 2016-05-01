@@ -1,0 +1,380 @@
+[
+     {
+          "gamedate": "Sat 15 Aug 1970",
+          "team": "West Bromwich Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 19 Aug 1970",
+          "team": "MANCHESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Aug 1970",
+          "team": "NEWCASTLE UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 25 Aug 1970",
+          "team": "Liverpool",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Aug 1970",
+          "team": "Stoke City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 02 Sep 1970",
+          "team": "BLACKPOOL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Sep 1970",
+          "team": "NOTTINGHAM FOREST",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Sep 1970",
+          "team": "Huddersfield Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Sep 1970",
+          "team": "TOTTENHAM HOTSPUR",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Sep 1970",
+          "team": "Everton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Oct 1970",
+          "team": "SOUTHAMPTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Oct 1970",
+          "team": "Manchester United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Oct 1970",
+          "team": "WEST BROMWICH ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Oct 1970",
+          "team": "WEST HAM UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Oct 1970",
+          "team": "Burnley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Nov 1970",
+          "team": "LEEDS UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Nov 1970",
+          "team": "Arsenal",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Nov 1970",
+          "team": "Coventry City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Nov 1970",
+          "team": "WOLVERHAMPTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Dec 1970",
+          "team": "Ipswich Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Dec 1970",
+          "team": "DERBY COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Dec 1970",
+          "team": "Newcastle United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Jan 1971",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 13 Jan 1971",
+          "team": "CHELSEA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Jan 1971",
+          "team": "LIVERPOOL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Jan 1971",
+          "team": "Wolverhampton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Feb 1971",
+          "team": "IPSWICH TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 17 Feb 1971",
+          "team": "Derby County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Feb 1971",
+          "team": "COVENTRY CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Feb 1971",
+          "team": "BURNLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Mar 1971",
+          "team": "West Ham United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Mar 1971",
+          "team": "ARSENAL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Mar 1971",
+          "team": "Leeds United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 24 Mar 1971",
+          "team": "HUDDERSFIELD TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Mar 1971",
+          "team": "Nottingham Forest",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Apr 1971",
+          "team": "STOKE CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Apr 1971",
+          "team": "Chelsea",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Apr 1971",
+          "team": "MANCHESTER UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 3-5",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Apr 1971",
+          "team": "Tottenham Hotspur",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 26 Apr 1971",
+          "team": "Blackpool",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 May 1971",
+          "team": "EVERTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 04 May 1971",
+          "team": "Southampton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-6",
+          "score1": "",
+          "score2": ""
+     }
+]

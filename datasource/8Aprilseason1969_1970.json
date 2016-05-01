@@ -1,0 +1,380 @@
+[
+     {
+          "gamedate": "Sat 09 Aug 1969",
+          "team": "MANCHESTER UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 13 Aug 1969",
+          "team": "SUNDERLAND",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Aug 1969",
+          "team": "Everton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 20 Aug 1969",
+          "team": "Sunderland",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Aug 1969",
+          "team": "TOTTENHAM HOTSPUR",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 27 Aug 1969",
+          "team": "LIVERPOOL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Aug 1969",
+          "team": "Chelsea",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Sep 1969",
+          "team": "STOKE CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Sep 1969",
+          "team": "Coventry City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Sep 1969",
+          "team": "WEST BROMWICH ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Sep 1969",
+          "team": "Nottingham Forest",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 04 Oct 1969",
+          "team": "NEWCASTLE UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 08 Oct 1969",
+          "team": "EVERTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Oct 1969",
+          "team": "Burnley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 18 Oct 1969",
+          "team": "LEEDS UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Oct 1969",
+          "team": "Sheffield Wednesday",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Nov 1969",
+          "team": "ARSENAL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-5",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Nov 1969",
+          "team": "West Ham United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Nov 1969",
+          "team": "Ipswich Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Nov 1969",
+          "team": "WOLVERHAMPTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Nov 1969",
+          "team": "Southampton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Dec 1969",
+          "team": "DERBY COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Dec 1969",
+          "team": "COVENTRY CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Dec 1969",
+          "team": "Stoke City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 26 Dec 1969",
+          "team": "Tottenham Hotspur",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Dec 1969",
+          "team": "CHELSEA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-5",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Jan 1970",
+          "team": "West Bromwich Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Jan 1970",
+          "team": "NOTTINGHAM FOREST",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Jan 1970",
+          "team": "Newcastle United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 11 Feb 1970",
+          "team": "BURNLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Feb 1970",
+          "team": "Manchester United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Feb 1970",
+          "team": "SHEFFIELD WEDNESDAY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Feb 1970",
+          "team": "Leeds United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 11 Mar 1970",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Mar 1970",
+          "team": "SOUTHAMPTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 18 Mar 1970",
+          "team": "Wolverhampton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Mar 1970",
+          "team": "Derby County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 24 Mar 1970",
+          "team": "WEST HAM UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Mar 1970",
+          "team": "IPSWICH TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 30 Mar 1970",
+          "team": "Arsenal",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 03 Apr 1970",
+          "team": "Liverpool",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 06 Apr 1970",
+          "team": "MANCHESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     }
+]

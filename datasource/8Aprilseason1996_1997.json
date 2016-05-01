@@ -1,0 +1,488 @@
+[
+     {
+          "gamedate": "Sun 18 Aug 1996",
+          "team": "Birmingham City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Aug 1996",
+          "team": "OLDHAM ATHLETIC",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 27 Aug 1996",
+          "team": "WEST BROMWICH ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Aug 1996",
+          "team": "Huddersfield Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Sep 1996",
+          "team": "Stoke City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 10 Sep 1996",
+          "team": "IPSWICH TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Sep 1996",
+          "team": "MANCHESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 17 Sep 1996",
+          "team": "Bury",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Sep 1996",
+          "team": "Reading",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 6-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 24 Sep 1996",
+          "team": "BURY",
+          "awayorhome": "H",
+          "competition": "League Cup",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Sep 1996",
+          "team": "SOUTHEND UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 6-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 01 Oct 1996",
+          "team": "Portsmouth",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Oct 1996",
+          "team": "Barnsley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 16 Oct 1996",
+          "team": "Port Vale",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Oct 1996",
+          "team": "SWINDON TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 22 Oct 1996",
+          "team": "Ipswich Town",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "L 1-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Oct 1996",
+          "team": "GRIMSBY TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 29 Oct 1996",
+          "team": "Bradford City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Nov 1996",
+          "team": "Tranmere Rovers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 10 Nov 1996",
+          "team": "QUEENS PARK RANGERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Nov 1996",
+          "team": "Bolton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Nov 1996",
+          "team": "WOLVERHAMPTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 2-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Nov 1996",
+          "team": "Grimsby Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Dec 1996",
+          "team": "OXFORD UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Dec 1996",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 17 Dec 1996",
+          "team": "SHEFFIELD UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Dec 1996",
+          "team": "CHARLTON ATHLETIC",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 26 Dec 1996",
+          "team": "Ipswich Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Jan 1997",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 14 Jan 1997",
+          "team": "LEEDS UNITED",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 18 Jan 1997",
+          "team": "PORTSMOUTH",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Jan 1997",
+          "team": "Leeds United",
+          "awayorhome": "A",
+          "competition": "F.A. Cup",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 28 Jan 1997",
+          "team": "Southend United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Feb 1997",
+          "team": "Queens Park Rangers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Feb 1997",
+          "team": "BRADFORD CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Feb 1997",
+          "team": "Wolverhampton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Feb 1997",
+          "team": "TRANMERE ROVERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Mar 1997",
+          "team": "Oxford United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 04 Mar 1997",
+          "team": "BOLTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Mar 1997",
+          "team": "Charlton Athletic",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Mar 1997",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 23 Mar 1997",
+          "team": "Oldham Athletic",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Mar 1997",
+          "team": "BIRMINGHAM CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Apr 1997",
+          "team": "HUDDERSFIELD TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 09 Apr 1997",
+          "team": "West Bromwich Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Apr 1997",
+          "team": "Sheffield United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 15 Apr 1997",
+          "team": "STOKE CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Apr 1997",
+          "team": "BARNSLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 23 Apr 1997",
+          "team": "READING",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Apr 1997",
+          "team": "Swindon Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 04 May 1997",
+          "team": "PORT VALE",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 May 1997",
+          "team": "WOLVERHAMPTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "FL P/O Lvl2",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 14 May 1997",
+          "team": "Wolverhampton Wanderers",
+          "awayorhome": "A",
+          "competition": "FL P/O Lvl2",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 26 May 1997",
+          "team": "Sheffield United",
+          "awayorhome": "Neu",
+          "competition": "FL P/O Lvl2",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     }
+]

@@ -1,0 +1,380 @@
+[
+     {
+          "gamedate": "Sat 23 Aug 1947",
+          "team": "Leyton Orient",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 27 Aug 1947",
+          "team": "ALDERSHOT",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Aug 1947",
+          "team": "TORQUAY UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 03 Sep 1947",
+          "team": "Aldershot",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Sep 1947",
+          "team": "Swindon Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 08 Sep 1947",
+          "team": "Bristol Rovers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Sep 1947",
+          "team": "PORT VALE",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 17 Sep 1947",
+          "team": "BRISTOL ROVERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Sep 1947",
+          "team": "Queens Park Rangers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Sep 1947",
+          "team": "WATFORD",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 04 Oct 1947",
+          "team": "Brighton \u0026 Hove Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Oct 1947",
+          "team": "Exeter City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 18 Oct 1947",
+          "team": "NEWPORT COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Oct 1947",
+          "team": "Southend United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Nov 1947",
+          "team": "NOTTS. COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Nov 1947",
+          "team": "Swansea Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Nov 1947",
+          "team": "BOURNEMOUTH \u0026 BOSCOMBE ATH.",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Nov 1947",
+          "team": "Ipswich Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Dec 1947",
+          "team": "Walsall",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Dec 1947",
+          "team": "LEYTON ORIENT",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 25 Dec 1947",
+          "team": "NORTHAMPTON TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Dec 1947",
+          "team": "Northampton Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Jan 1948",
+          "team": "Torquay United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  3-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Jan 1948",
+          "team": "SWINDON TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Jan 1948",
+          "team": "WALSALL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 2-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Jan 1948",
+          "team": "Port Vale",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Feb 1948",
+          "team": "Watford",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 5-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Feb 1948",
+          "team": "EXETER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Mar 1948",
+          "team": "Newport County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Mar 1948",
+          "team": "SOUTHEND UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 15 Mar 1948",
+          "team": "QUEENS PARK RANGERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Mar 1948",
+          "team": "Notts. County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 26 Mar 1948",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Mar 1948",
+          "team": "SWANSEA TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 29 Mar 1948",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Apr 1948",
+          "team": "Bournemouth \u0026 Boscombe Ath.",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 05 Apr 1948",
+          "team": "BRISTOL CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Apr 1948",
+          "team": "IPSWICH TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 12 Apr 1948",
+          "team": "BRIGHTON \u0026 HOVE ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Apr 1948",
+          "team": "Bristol City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 21 Apr 1948",
+          "team": "Reading",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Apr 1948",
+          "team": "READING",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     }
+]

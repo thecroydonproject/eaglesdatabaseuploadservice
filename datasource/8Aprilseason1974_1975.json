@@ -1,0 +1,416 @@
+[
+     {
+          "gamedate": "Sat 17 Aug 1974",
+          "team": "Brighton \u0026 Hove Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Aug 1974",
+          "team": "TRANMERE ROVERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Aug 1974",
+          "team": "Halifax Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Sep 1974",
+          "team": "SWINDON TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 6-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 13 Sep 1974",
+          "team": "Southend United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 18 Sep 1974",
+          "team": "Hereford United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Sep 1974",
+          "team": "WREXHAM",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 24 Sep 1974",
+          "team": "PRESTON NORTH END",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Sep 1974",
+          "team": "Huddersfield Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 01 Oct 1974",
+          "team": "GRIMSBY TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Oct 1974",
+          "team": "CHESTERFIELD",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Oct 1974",
+          "team": "AFC Bournemouth",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Oct 1974",
+          "team": "WALSALL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 22 Oct 1974",
+          "team": "BLACKBURN ROVERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Oct 1974",
+          "team": "Port Vale",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Nov 1974",
+          "team": "PETERBOROUGH UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 06 Nov 1974",
+          "team": "Blackburn Rovers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Nov 1974",
+          "team": "Bury",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Nov 1974",
+          "team": "PLYMOUTH ARGYLE",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  3-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Nov 1974",
+          "team": "CHARLTON ATHLETIC",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Dec 1974",
+          "team": "Watford",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 20 Dec 1974",
+          "team": "Colchester United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 26 Dec 1974",
+          "team": "SOUTHEND UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Dec 1974",
+          "team": "Gillingham",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 04 Jan 1975",
+          "team": "HEREFORD UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Jan 1975",
+          "team": "WATFORD",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 17 Jan 1975",
+          "team": "Charlton Athletic",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Jan 1975",
+          "team": "Aldershot",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Feb 1975",
+          "team": "BURY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Feb 1975",
+          "team": "Peterborough United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Feb 1975",
+          "team": "ALDERSHOT",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Feb 1975",
+          "team": "Plymouth Argyle",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 28 Feb 1975",
+          "team": "HALIFAX TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Mar 1975",
+          "team": "Preston North End",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Mar 1975",
+          "team": "HUDDERSFIELD TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 18 Mar 1975",
+          "team": "BRIGHTON \u0026 HOVE ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Mar 1975",
+          "team": "Swindon Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 25 Mar 1975",
+          "team": "COLCHESTER UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 31 Mar 1975",
+          "team": "Wrexham",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Apr 1975",
+          "team": "PORT VALE",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 08 Apr 1975",
+          "team": "Grimsby Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Apr 1975",
+          "team": "Chesterfield",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Apr 1975",
+          "team": "AFC BOURNEMOUTH",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 25 Apr 1975",
+          "team": "Walsall",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 29 Apr 1975",
+          "team": "GILLINGHAM",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 07 May 1975",
+          "team": "Tranmere Rovers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     }
+]

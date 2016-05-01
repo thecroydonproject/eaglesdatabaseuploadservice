@@ -1,0 +1,443 @@
+[
+     {
+          "gamedate": "Sat 05 Aug 2006",
+          "team": "Ipswich Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 08 Aug 2006",
+          "team": "SOUTHEND UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 13 Aug 2006",
+          "team": "LEEDS UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Aug 2006",
+          "team": "Birmingham City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 22 Aug 2006",
+          "team": "NOTTS. COUNTY",
+          "awayorhome": "H",
+          "competition": "League Cup",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Aug 2006",
+          "team": "BURNLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Sep 2006",
+          "team": "Luton Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 12 Sep 2006",
+          "team": "SOUTHAMPTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Sep 2006",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Sep 2006",
+          "team": "COVENTRY CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Sep 2006",
+          "team": "Hull City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Oct 2006",
+          "team": "CARDIFF CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 17 Oct 2006",
+          "team": "WEST BROMWICH ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Oct 2006",
+          "team": "Leicester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Oct 2006",
+          "team": "PLYMOUTH ARGYLE",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 31 Oct 2006",
+          "team": "Sheffield Wednesday",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 04 Nov 2006",
+          "team": "Queens Park Rangers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Nov 2006",
+          "team": "STOKE CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 18 Nov 2006",
+          "team": "BARNSLEY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Nov 2006",
+          "team": "Preston North End",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 28 Nov 2006",
+          "team": "Wolverhampton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Dec 2006",
+          "team": "QUEENS PARK RANGERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Dec 2006",
+          "team": "COLCHESTER UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Dec 2006",
+          "team": "Derby County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 22 Dec 2006",
+          "team": "SUNDERLAND",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 26 Dec 2006",
+          "team": "Southampton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Dec 2006",
+          "team": "Cardiff City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 01 Jan 2007",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Jan 2007",
+          "team": "SWINDON TOWN",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Jan 2007",
+          "team": "Coventry City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 4-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Jan 2007",
+          "team": "HULL CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Jan 2007",
+          "team": "PRESTON NORTH END",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 30 Jan 2007",
+          "team": "Sunderland",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Feb 2007",
+          "team": "IPSWICH TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Feb 2007",
+          "team": "Leeds United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Feb 2007",
+          "team": "BIRMINGHAM CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 20 Feb 2007",
+          "team": "Southend United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Feb 2007",
+          "team": "LUTON TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Mar 2007",
+          "team": "Burnley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Mar 2007",
+          "team": "LEICESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 14 Mar 2007",
+          "team": "West Bromwich Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Mar 2007",
+          "team": "Plymouth Argyle",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Mar 2007",
+          "team": "SHEFFIELD WEDNESDAY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Apr 2007",
+          "team": "PRESTON NORTH END",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 09 Apr 2007",
+          "team": "Stoke City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Apr 2007",
+          "team": "WOLVERHAMPTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Apr 2007",
+          "team": "Barnsley",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 29 Apr 2007",
+          "team": "DERBY COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 06 May 2007",
+          "team": "Colchester United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     }
+]

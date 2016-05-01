@@ -1,0 +1,408 @@
+
+[
+     {
+          "gamedate": "Sat 08 Aug 2015",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 16 Aug 2015",
+          "team": "ARSENAL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Aug 2015",
+          "team": "ASTON VILLA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 25 Aug 2015",
+          "team": "SHREWSBURY TOWN",
+          "awayorhome": "H",
+          "competition": "League Cup",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Aug 2015",
+          "team": "Chelsea",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Sep 2015",
+          "team": "MANCHESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 20 Sep 2015",
+          "team": "Tottenham Hotspur",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 23 Sep 2015",
+          "team": "CHARLTON ATHLETIC",
+          "awayorhome": "H",
+          "competition": "League Cup",
+          "result": "W 4-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 27 Sep 2015",
+          "team": "Watford",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Oct 2015",
+          "team": "WEST BROMWICH ALBION",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Oct 2015",
+          "team": "WEST HAM UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Oct 2015",
+          "team": "Leicester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 28 Oct 2015",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "L 1-5",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Oct 2015",
+          "team": "MANCHESTER UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 08 Nov 2015",
+          "team": "Liverpool",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 23 Nov 2015",
+          "team": "SUNDERLAND",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Nov 2015",
+          "team": "NEWCASTLE UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 5-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 07 Dec 2015",
+          "team": "Everton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Dec 2015",
+          "team": "SOUTHAMPTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Dec 2015",
+          "team": "Stoke City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Dec 2015",
+          "team": "AFC Bournemouth",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 28 Dec 2015",
+          "team": "SWANSEA CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 03 Jan 2016",
+          "team": "CHELSEA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Jan 2016",
+          "team": "Southampton",
+          "awayorhome": "A",
+          "competition": "F.A. Cup",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 12 Jan 2016",
+          "team": "Aston Villa",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Jan 2016",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Jan 2016",
+          "team": "TOTTENHAM HOTSPUR",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Jan 2016",
+          "team": "STOKE CITY",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 02 Feb 2016",
+          "team": "AFC BOURNEMOUTH",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Feb 2016",
+          "team": "Swansea City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Feb 2016",
+          "team": "WATFORD",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 21 Feb 2016",
+          "team": "Tottenham Hotspur",
+          "awayorhome": "A",
+          "competition": "F.A. Cup",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Feb 2016",
+          "team": "West Bromwich Albion",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 2-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 01 Mar 2016",
+          "team": "Sunderland",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 06 Mar 2016",
+          "team": "LIVERPOOL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 11 Mar 2016",
+          "team": "Reading",
+          "awayorhome": "A",
+          "competition": "F.A. Cup",
+          "result": "19:45",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Mar 2016",
+          "team": "Manchester United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "P-P",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Mar 2016",
+          "team": "LEICESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Apr 2016",
+          "team": "West Ham United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Apr 2016",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "15:00",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Apr 2016",
+          "team": "Arsenal",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "15:00",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Apr 2016",
+          "team": "EVERTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "15:00",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Apr 2016",
+          "team": "Newcastle United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "15:00",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 May 2016",
+          "team": "STOKE CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "15:00",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 15 May 2016",
+          "team": "Southampton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "15:00",
+          "score1": "",
+          "score2": ""
+     }
+]

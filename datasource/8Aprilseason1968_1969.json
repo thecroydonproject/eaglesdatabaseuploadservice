@@ -1,0 +1,380 @@
+[
+     {
+          "gamedate": "Sat 10 Aug 1968",
+          "team": "Cardiff City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 14 Aug 1968",
+          "team": "HUDDERSFIELD TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Aug 1968",
+          "team": "BIRMINGHAM CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 20 Aug 1968",
+          "team": "Middlesbrough",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Aug 1968",
+          "team": "Bury",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 28 Aug 1968",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Aug 1968",
+          "team": "CHARLTON ATHLETIC",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  3-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Sep 1968",
+          "team": "CARLISLE UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 5-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 13 Sep 1968",
+          "team": "Fulham",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Sep 1968",
+          "team": "PRESTON NORTH END",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Sep 1968",
+          "team": "Portsmouth",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  3-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Oct 1968",
+          "team": "SHEFFIELD UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 09 Oct 1968",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Oct 1968",
+          "team": "Aston Villa",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Oct 1968",
+          "team": "BRISTOL CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Oct 1968",
+          "team": "Blackpool",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Nov 1968",
+          "team": "BOLTON WANDERERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Nov 1968",
+          "team": "Oxford United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Nov 1968",
+          "team": "BLACKBURN ROVERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Nov 1968",
+          "team": "Millwall",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Nov 1968",
+          "team": "DERBY COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 07 Dec 1968",
+          "team": "Hull City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Dec 1968",
+          "team": "ASTON VILLA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 26 Dec 1968",
+          "team": "Sheffield United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Jan 1969",
+          "team": "Bolton Wanderers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Jan 1969",
+          "team": "BLACKPOOL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Feb 1969",
+          "team": "HULL CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 25 Feb 1969",
+          "team": "Bristol City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 01 Mar 1969",
+          "team": "CARDIFF CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 05 Mar 1969",
+          "team": "Derby County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 08 Mar 1969",
+          "team": "Birmingham City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 15 Mar 1969",
+          "team": "BURY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 19 Mar 1969",
+          "team": "MILLWALL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 22 Mar 1969",
+          "team": "Charlton Athletic",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 26 Mar 1969",
+          "team": "OXFORD UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 29 Mar 1969",
+          "team": "Carlisle United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Fri 04 Apr 1969",
+          "team": "MIDDLESBROUGH",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 Apr 1969",
+          "team": "PORTSMOUTH",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 08 Apr 1969",
+          "team": "Huddersfield Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 Apr 1969",
+          "team": "Preston North End",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 19 Apr 1969",
+          "team": "FULHAM",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 28 Apr 1969",
+          "team": "Blackburn Rovers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     }
+]

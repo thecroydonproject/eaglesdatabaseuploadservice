@@ -1,0 +1,443 @@
+[
+     {
+          "gamedate": "Sat 19 Aug 1989",
+          "team": "Queens Park Rangers",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 22 Aug 1989",
+          "team": "MANCHESTER UNITED",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 26 Aug 1989",
+          "team": "COVENTRY CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Sep 1989",
+          "team": "WIMBLEDON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 12 Sep 1989",
+          "team": "Liverpool",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-9",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Sep 1989",
+          "team": "Southampton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 19 Sep 1989",
+          "team": "LEICESTER CITY",
+          "awayorhome": "H",
+          "competition": "League Cup",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 23 Sep 1989",
+          "team": "NOTTINGHAM FOREST",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Sep 1989",
+          "team": "EVERTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 04 Oct 1989",
+          "team": "Leicester City",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "W 3-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Oct 1989",
+          "team": "Derby County",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Oct 1989",
+          "team": "MILLWALL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 4-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 24 Oct 1989",
+          "team": "NOTTINGHAM FOREST",
+          "awayorhome": "H",
+          "competition": "League Cup",
+          "result": "D  0-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Oct 1989",
+          "team": "Aston Villa",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 01 Nov 1989",
+          "team": "Nottingham Forest",
+          "awayorhome": "A",
+          "competition": "League Cup",
+          "result": "L 0-5",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 04 Nov 1989",
+          "team": "Manchester City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 11 Nov 1989",
+          "team": "LUTON TOWN",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 18 Nov 1989",
+          "team": "TOTTENHAM HOTSPUR",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 2-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 25 Nov 1989",
+          "team": "Sheffield Wednesday",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 02 Dec 1989",
+          "team": "QUEENS PARK RANGERS",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 09 Dec 1989",
+          "team": "Manchester United",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 16 Dec 1989",
+          "team": "Charlton Athletic",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 26 Dec 1989",
+          "team": "CHELSEA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 30 Dec 1989",
+          "team": "NORWICH CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 01 Jan 1990",
+          "team": "Arsenal",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 06 Jan 1990",
+          "team": "PORTSMOUTH",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 13 Jan 1990",
+          "team": "Coventry City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 20 Jan 1990",
+          "team": "LIVERPOOL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 27 Jan 1990",
+          "team": "HUDDERSFIELD TOWN",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "W 4-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Feb 1990",
+          "team": "Nottingham Forest",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 1-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Feb 1990",
+          "team": "SOUTHAMPTON",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 3-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Feb 1990",
+          "team": "ROCHDALE",
+          "awayorhome": "H",
+          "competition": "F.A. Cup",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Feb 1990",
+          "team": "SHEFFIELD WEDNESDAY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 03 Mar 1990",
+          "team": "Tottenham Hotspur",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 10 Mar 1990",
+          "team": "Cambridge United",
+          "awayorhome": "A",
+          "competition": "F.A. Cup",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 17 Mar 1990",
+          "team": "Everton",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-4",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Tue 20 Mar 1990",
+          "team": "DERBY COUNTY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 24 Mar 1990",
+          "team": "ASTON VILLA",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 31 Mar 1990",
+          "team": "Millwall",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 2-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 04 Apr 1990",
+          "team": "Norwich City",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sun 08 Apr 1990",
+          "team": "Liverpool",
+          "awayorhome": "Neu",
+          "competition": "F.A. Cup",
+          "result": "W 4-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 14 Apr 1990",
+          "team": "ARSENAL",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  1-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Mon 16 Apr 1990",
+          "team": "Chelsea",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 21 Apr 1990",
+          "team": "CHARLTON ATHLETIC",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "W 2-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 28 Apr 1990",
+          "team": "Luton Town",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Wed 02 May 1990",
+          "team": "Wimbledon",
+          "awayorhome": "A",
+          "competition": "League",
+          "result": "W 1-0",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 05 May 1990",
+          "team": "MANCHESTER CITY",
+          "awayorhome": "H",
+          "competition": "League",
+          "result": "D  2-2",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Sat 12 May 1990",
+          "team": "Manchester United",
+          "awayorhome": "Neu",
+          "competition": "F.A. Cup",
+          "result": "D  3-3",
+          "score1": "",
+          "score2": ""
+     },
+     {
+          "gamedate": "Thu 17 May 1990",
+          "team": "Manchester United",
+          "awayorhome": "Neu",
+          "competition": "F.A. Cup",
+          "result": "L 0-1",
+          "score1": "",
+          "score2": ""
+     }
+]
