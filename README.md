@@ -1,14 +1,14 @@
 
 <p align="center">
-  <img src="madeinhot.jpg" width="350"/>
+  <img src="madeinhot.jpg" width="100"/>
 </p>
 
 # dbuplaod
 
 
-# what is it?
+# What is it?
 
-simple programme that reads json data from datasourcefolder and uploads it into a postgres db.
+Simple programme that reads json data from datasourcefolder and uploads it into a postgres db.
 the database is runnin on a Vagrant machine which have to be started first.  vagrant up builds
 the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in the public schema.
 
@@ -18,7 +18,9 @@ the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in
 
 2) read the content of each file into []byte
 
-3) unmarshall []byte into json
+3) for each file
+
+    a) unmarshall []byte into json
 
 2) create postgres db table
 
@@ -26,16 +28,15 @@ the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in
 
 
 
-
 # how do i use it
 
 1) clone the repo
 
-```
+``
 $mkdir temp
 $cd temp
 $ git clone https://github.com/thecroydonproject/eaglesdatabaseuploadservice.git
-```c
+``
 
 
 2)  set-up env variable (db connection string)
@@ -50,16 +51,15 @@ $ cd postgres
 $ vagrant up
 ```
 4) run
-```
+
+``
 $ go build && ./dbuplaod
 ``
 
-see this video on how to run:
 
 
 
-
-## to check the database
+## To check the database
 
 ```
 $ vargrant ssh                                                               // ssh into vm
@@ -72,8 +72,14 @@ cpfc# select * from cpfc                                                //check 
 cpfcf#\q                                                                    \\exit psql
 ```
 
- ## TODO
+ ## What is Made iN H_oT
 
- - reading json data from multiple fils
+  software written by UK Home Office Technology will be badged
+
+  with <p align="center"> <img src="madeinhot.jpg" width="100"/>
+       </p> as mark of quality, trust and consistance. This badge
+       is not yet declared official.
+
+
 
 
