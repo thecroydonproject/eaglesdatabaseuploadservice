@@ -75,8 +75,8 @@ cpfcf#\q                                                                    \\ex
  ## What is Made iN H_oT
 
 
-[logo]: https://github.com/thecroydonproject/eaglesdatabaseuploadservice/madeinhot.jpg software written by UK Home Office Technology will be badged
-This badge is not yet declared official.
+[logo]: https://github.com/thecroydonproject/eaglesdatabaseuploadservice/madeinhot.jpg "software written by UK Home Office Technology"
+.badge is not yet declared official.
 
 
 
