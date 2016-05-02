@@ -2,9 +2,9 @@ package main
 
 import (
 
-	."github.com/Abdul2/dbupload/dboperations"
-	."github.com/Abdul2/dbupload/helper"
-	."github.com/Abdul2/dbupload/data"
+	O "github.com/Abdul2/dbupload/dboperations"
+	 H "github.com/Abdul2/dbupload/helper"
+	D "github.com/Abdul2/dbupload/data"
 
 )
 import (
@@ -20,31 +20,31 @@ func main(){
 
 
 	var bytecontent []byte
-	var jsoncontent []Game
+	var jsoncontent []D.Game
 	var filesname *[]string
 	var err error
 
-	Dboperations("deletetable")
-	Dboperations("createtable")
+	O.Dboperations("deletetable")
+	O.Dboperations("createtable")
 
 	filesname, err = filenamesindir("datasource")
 
 	if err != nil {
 
-		Error.Println(err.Error())
+		H.Error.Println(err.Error())
 	}
 
 	for counter, value := range *filesname {
 
-		Info.Printf("file number %d is called %s", counter, value)
+		H.Info.Printf("file number %d is called %s", counter, value)
 
-		bytecontent = Readfileintobyteslice(value) //read file content into byte slice
+		bytecontent = O.Readfileintobyteslice(value) //read file content into byte slice
 
-		jsoncontent = Loadintostruct(bytecontent) //read into the byte slice into struct
+		jsoncontent = O.Loadintostruct(bytecontent) //read into the byte slice into struct
 
-		Info.Println(jsoncontent)
+		H.Info.Println(jsoncontent)
 
-		Dboperations("insertraws")
+		O.Dboperations("insertraws")
 
 	}
 }
@@ -54,7 +54,7 @@ func main(){
 func filenamesindir(dir string) (*[]string, error) {
 
 
-	Info.Println(`filenamesindir() started`)
+	H.Info.Println(`filenamesindir() started`)
 
 	var err error
 	var filesinfo []os.FileInfo
@@ -67,7 +67,7 @@ func filenamesindir(dir string) (*[]string, error) {
 
 	if err != nil{
 
-		Error.Println("\n\n\n cant get the working dir \n")
+		H.Error.Println("\n\n\n cant get the working dir \n")
 	}
 
 	dirfqn = fmt.Sprintf(`%s/%s`,currentdir,dir)
@@ -79,7 +79,7 @@ func filenamesindir(dir string) (*[]string, error) {
 
 	if err != nil {
 
-		Error.Println("cant read the source dir")
+		H.Error.Println("cant read the source dir")
 		return nil, errors.New("cant read source dir")
 	}
 
@@ -88,7 +88,7 @@ func filenamesindir(dir string) (*[]string, error) {
 
 		filefqn := fmt.Sprintf(`%s/%s`,dirfqn,filesinfo[f].Name())
 
-		Info.Println (filesinfo[f].Name())
+		H.Info.Println (filesinfo[f].Name())
 		filenames = append(filenames, filefqn)
 	}
 

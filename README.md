@@ -30,34 +30,31 @@ the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in
 
 # how do i use it
 
-1) clone the repo
-
-``
-$mkdir temp
-$cd temp
-$ git clone https://github.com/thecroydonproject/eaglesdatabaseuploadservice.git
-``
 
 
-2)  set-up env variable (db connection string)
+1)  set-up env variable (db connection string)
 
   include this in your ~/.profile
 ```
   export DATABASE_URL_CPFC="postgres://cpfc:cpfc@localhost:15432/cpfc"
+
 ```
-3) start vagrant machine (postgres db)
+
+2) clone the repo and start db
+
 ```
+$ git clone git clone https://github.com/thecroydonproject/eaglesdatabaseuploadservice.git  mydatauploadtemp
+$ cd mydatauploadtemp
 $ cd postgres
 $ vagrant up
-```
+
+``````
 4) run
 
 ``
-$ go build && ./dbuplaod
+$ cd ..
+$ go build && ./mydatauploadtemp
 ``
-
-
-
 
 ## To check the database
 
