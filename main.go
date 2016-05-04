@@ -5,6 +5,7 @@ import (
 	O "github.com/Abdul2/dbupload/dboperations"
 	 H "github.com/Abdul2/dbupload/helper"
 	D "github.com/Abdul2/dbupload/data"
+	R "github.com/Abdul2/dbupload/resultsrestservice"
 
 )
 import (
@@ -47,6 +48,9 @@ func main(){
 		O.Dboperations("insertraws")
 
 	}
+
+
+	R.Serverstart()
 }
 
 //filenameindir returns a slice with fully qualified file names of a

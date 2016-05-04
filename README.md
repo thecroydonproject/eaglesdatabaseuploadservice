@@ -26,6 +26,7 @@ the db vm.  boostrap.sh provisions the vm and creates db and user called cpfc in
 
 3) upload content of jsonfile
 
+4) Starts restful service
 
 
 # how do i use it
@@ -55,6 +56,8 @@ $ vagrant up
 $ cd ..
 $ go build && ./mydatauploadtemp
 ``
+
+5) go to http://localhost:8000/results
 
 ## To check the database
 
