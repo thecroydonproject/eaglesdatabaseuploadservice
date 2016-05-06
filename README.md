@@ -57,7 +57,8 @@ $ cd ..
 $ go build && ./mydatauploadtemp
 ``
 
-5) go to http://localhost:8000/results
+5) go to http://localhost:8000/results or curl -i http://localhost:8000/results
+
 
 ## To check the database
 

@@ -2,53 +2,43 @@ package resultsrestservice
 
 import (
 	"database/sql"
-//"fmt"
 	"github.com/coopernurse/gorp"
 	"github.com/gin-gonic/gin"
 	_ "github.com/lib/pq"
-	"log"
+	//"log"
 	"os"
 	"strconv"
-	D "github.com/Abdul2/dbupload/data"
+	//D "github.com/Abdul2/dbupload/data"
+	H "github.com/Abdul2/dbupload/helper"
 )
 
 //establish connection to db or fail early
 var dbmap = initDb()
 
-
+//iniDb connects to db and returns a connection object
 func initDb() *gorp.DbMap {
 
 	db, err := sql.Open("postgres", os.Getenv("DATABASE_URL_CPFC"))
-	checkErr(err, "can open db")
 
-
-	//db, err := sql.Open("postgres", dbUrl)
+	if err != nil {
+		H.CheckError(err)
+	}
 
 	dbmap := &gorp.DbMap{Db: db, Dialect: gorp.PostgresDialect{}}
-
-
 	return dbmap
 }
 
-//checkErr is a helper function to deal with errors
-func checkErr(err error, msg string) {
-	if err != nil {
-		//log.Fatalln(msg, err)
 
-		log.Print(err.Error())
-	}
-
-}
-
-//main is programme entry point
+//Serverstart starts a server listening to port 8000
 func Serverstart() {
 
 	//defer connection to database until all db operations are completed
 	defer dbmap.Db.Close()
 	router := Router()
-	router.Run(":8000")
+	router.Run(":9000")
 }
 
+//Router
 func Router() *gin.Engine {
 
 	router := gin.Default()
@@ -59,11 +49,31 @@ func Router() *gin.Engine {
 
 func allresults(c *gin.Context) {
 
-	var result []D.Game
+
+	var result []struct{
+
+		Uid int64
+		Gamedate string
+		Team string
+		Awayorhome string
+		Competition string
+		Result string
+		Score1 string
+		Score2 string
+
+
+
+	}
+
+
 
 	_, err := dbmap.Select(&result, "select * from cpfc;")
 
-	checkErr(err, "Select failed")
+	if err != nil {
+
+		H.CheckError(err)
+
+	}
 
 	content := gin.H{}
 
