@@ -7,12 +7,11 @@ import (
 	D "github.com/Abdul2/dbupload/data"
 	R "github.com/Abdul2/dbupload/resultsrestservice"
 
-)
-import (
 	"io/ioutil"
 	"os"
 	"errors"
 	"fmt"
+
 )
 
 
@@ -98,3 +97,4 @@ func filenamesindir(dir string) (*[]string, error) {
 
 	return &filenames,nil
 }
+
